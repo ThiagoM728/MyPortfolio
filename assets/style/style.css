@@ -13,7 +13,7 @@ body {
   box-sizing: border-box
 }
 
-/*NAVBAR*/
+/* NAVBAR */
 .navbar {
   background-color: #31b0d5;
   position: fixed; /* Set the navbar to fixed position */
